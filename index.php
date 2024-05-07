@@ -7,17 +7,22 @@
     <title>Newsletter</title>
 </head>
 <body>
-    <header>
-        Ciao
-    </header>
+    <div class="container">
+        <header>
+            <form action="" method="POST">
+                <input type="email" name="email" placeholder="Inserisci la tua email">
+                <button type="submit">Invia</button></p>
+            </form>
 
-    <main>
-        Heilà
-    </main>
+        </header>
 
-    <footer>
-        Buondì
-    </footer>
-    
+        <main>
+            Heilà
+        </main>
+
+        <footer>
+            Buondì
+        </footer>
+    </div>
 </body>
 </html>
